@@ -9,4 +9,9 @@
     --shellauth-load-card-border-top: 1px solid #F1F0F9;
     --cadre-service-background-color: #F6F7FD;
     --cadre-service-color: black;
+    /* APP */
+    --shellua-loading-title: black;
+    --shellua-useragent-border: black;
+    --shellua-useragent-color: black;
+    /* APP */
 }

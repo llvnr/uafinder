@@ -1,10 +1,10 @@
 export default {
-    logo: "../assets/logo-avadomain.png",
-    name: "Equativa",
-    alias: "equativa",
-    description: "Un service qui sert de boilerplate.",
-    footer: "COPYRIGHT 2023 - EQUATIVA",
+    logo: "../assets/logo-uafinder.png",
+    name: "UAGT",
+    alias: "uagt",
+    description: "Un service qui vous permet d'obtenir votre user agent.",
+    footer: "COPYRIGHT 2023 - UAGT",
     keywords: [],
-    enabledAnalytics: false,
-    codeG4A: ''
+    enabledAnalytics: true,
+    codeG4A: 'G-Q5G7T2HNW1'
 }
